@@ -1,0 +1,16 @@
+WP Installer
+Just a simple WP local machine installer for Ubuntu users.
+
+(A trying-hard kind of thing)
+
+What It Does
+=============
+1. It will download and install Wordpress.
+2. It will create the needed database for you. (Will ask for mysql root pw)
+3. It will set up the config file of Wordpress.
+4. It will move your site to the web server.
+
+Installation
+=============
+1. Download the file install_wp_ubuntu.sh 
+2. Run the shell script by entering ./install_wp_ubuntu.sh in the command line.
